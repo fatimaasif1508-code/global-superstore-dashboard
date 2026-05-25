@@ -1,6 +1,6 @@
 # 📊 Global Superstore — Interactive Business Dashboard
 
-> **Task 5 | Business Intelligence Dashboarding with Streamlit**
+> ** | Business Intelligence Dashboarding with Streamlit**
 
 ---
 
@@ -140,6 +140,6 @@ seaborn>=0.13
 
 ## 👤 Author
 
-*Replace with your name, student ID, and course details before submission.*
+*Fatima Asif.*
 
 ---
